@@ -22,5 +22,3 @@ A faithful recreation of the classic **Windows Minesweeper**, built with **.NET 
 🔗 [LinkedIn](https://www.linkedin.com/in/mrdanielricci)  
 
 ---
-
-🚀 Always learning, building, and growing. Let's create something awesome!
